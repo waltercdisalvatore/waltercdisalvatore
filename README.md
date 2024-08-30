@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Analyst | SQL | BigQuery | Tableau | R | Google Sheets | Excel | Experienced Retail Customer services .
 - 💞️ I’m looking to collaborate on Use shared tools like version control systems (Git), project management software (Asana, Trello), and collaboration platforms (Google Drive, Slack) to streamline communication and collaboration.
 - 📫 How to reach me @waltercdisalvatore@gmail.com
-- 😄 Pronouns: He/Him
+  
 - ⚡ Fun fact: "pneumonoultramicroscopicsilicovolcanoconiosis"? It's a medical term referring to a lung disease caused by inhaling very fine particles of silica. Quite a mouthful, isn't it?
 
 <!---
